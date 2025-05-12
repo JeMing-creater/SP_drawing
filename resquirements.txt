@@ -1,0 +1,11 @@
+rpy2
+torch
+numpy
+pandas
+scanpy
+seaborn
+pathlib
+matplotlib
+SpatialGlue
+scikit-learn
+
