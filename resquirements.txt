@@ -7,5 +7,6 @@ seaborn
 pathlib
 matplotlib
 SpatialGlue
+scikit-misc
 scikit-learn
 
