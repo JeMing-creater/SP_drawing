@@ -1,8 +1,8 @@
 # Drawing for Nature's sub-journals 🐳
 
-![image](./images/sg1.jpg)
+![image](./images/sg1.png)
 
-![image](./images/domain.jpg "domain")
+![image](./images/domain.png)
 
 ## Authors
 Shiguan Mu, Jiaming Liang
